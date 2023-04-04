@@ -1,1 +1,1 @@
-git task is challenging but cool
+git task is challenging 
